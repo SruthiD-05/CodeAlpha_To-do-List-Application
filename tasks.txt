@@ -1,0 +1,4 @@
+singing|1
+coding practice|1
+sleeping|1
+playing|1
